@@ -1,7 +1,3 @@
-Sure, here's the revised README with the necessary code snippet for the configuration section:
-
----
-
 # ☂️ Umbrella Reminder
 
 A simple application to remind you to take an umbrella based on weather forecasts.
@@ -60,5 +56,3 @@ Before using the application, configure your email in the `umbrella_reminder.py`
 ## 📄 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
